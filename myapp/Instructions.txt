@@ -1,0 +1,9 @@
+To upload
+
+1. cmd to this folder
+
+2. type gcloud init
+
+3. choose [1]
+
+4.type gcloud app deploy
